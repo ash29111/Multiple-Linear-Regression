@@ -19,8 +19,8 @@ Bike sharing system to predict:
 
 ## Conclusions
 The temperature is an important factor to predict the demands of the bikes.
-32% of the bike bookings are made in the Spring Seasaon
-The demand of the shared bikes among the people increased in the year 2019, which might be due to the fact that COVID ended.
+32% of the bike bookings are made in the Spring Seasaon.
+The demand of the shared bikes among the people increased in the year 2019, which might be due to the fact that COVID's isolation period ended.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
